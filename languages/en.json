@@ -1,0 +1,14 @@
+{
+    "header": {
+        "about-me": "About me",
+        "experience": "Experience"
+    },
+    "about-me": {
+        "title": "About me",
+        "text": "I'm self-taught, with a strong inclination for continuous learning and problem-solving. I use my skills to develop innovative solutions. I'm passionate about new technologies, especially the CSS and JavaScript ecosystem."
+    },
+    "experience": {
+        "title": "Experience",
+        "text": "I started as a Front-End Developer using technologies like HTML, CSS, and JavaScript, and I'm looking for challenges, opportunities, and new projects."
+    }
+}
